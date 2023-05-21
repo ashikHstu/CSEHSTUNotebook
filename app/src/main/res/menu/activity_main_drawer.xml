@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/arb_notebook_icon"
+            android:iconTint="@android:color/white"
+            android:title="All Notes" />
+        <item
+            android:id="@+id/nav_questions"
+            android:icon="@drawable/arb_notebook_icon"
+            android:iconTint="@android:color/white"
+            android:title="Private Notes" />
+        <item
+            android:id="@+id/catagories"
+            android:icon="@drawable/noticeboard"
+            android:iconTint="@android:color/white"
+            android:title="Notice Board" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/arb_notebook_icon"
+            android:iconTint="@android:color/white"
+            android:title="Profile Setting" />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/about_us"
+            android:iconTint="@android:color/white"
+            android:title="About us" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout_icon"
+            android:iconTint="@android:color/white"
+            android:title="Logout" />
+
+
+
+
+
+    </group>
+</menu>

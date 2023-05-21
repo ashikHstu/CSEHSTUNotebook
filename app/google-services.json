@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860393287968",
+    "project_id": "cse-hstu-notebook",
+    "storage_bucket": "cse-hstu-notebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860393287968:android:5b895c5c8b6c7f9b76e745",
+        "android_client_info": {
+          "package_name": "com.example.csehstunotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860393287968-5mvq38lnfh2qv3sqvjoa5mr9hbro871u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csehstunotebook",
+            "certificate_hash": "53d6b8cdc6636195703e47c430637c44701b7dd1"
+          }
+        },
+        {
+          "client_id": "860393287968-lv1t8i0uhl6t6a6o5bn4q3eiomv4kjvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2LyFICa8klJr3dy9AQ1LvaDSZD_zIlFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860393287968-lv1t8i0uhl6t6a6o5bn4q3eiomv4kjvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

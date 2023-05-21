@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".VisitingSite">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar_settings"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/colorPrimary"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            >
+            <TextView
+                android:id="@+id/backButton"
+                android:layout_width="46dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="8dp"
+                android:padding="2dp"
+                android:text="BACK"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white"
+                android:textSize="15sp"  />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EXTRA"
+                android:layout_marginLeft="120dp"
+                android:textAlignment="center"
+                android:paddingTop="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold|italic"
+                android:textColor="@android:color/white"
+
+                />
+
+            <TextView
+                android:id="@+id/copyLink"
+                android:layout_width="97dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="100dp"
+                android:padding="2dp"
+                android:text="ADD"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+    <ListView
+        android:id="@+id/ListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

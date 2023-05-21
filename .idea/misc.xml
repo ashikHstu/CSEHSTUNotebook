@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/drawable/buttons.xml" value="0.136" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/drawable/input_design.xml" value="0.136" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/drawable/ovalsahpe.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_about_us.xml" value="0.221875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_add_note.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_curiculum.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_home.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level1_sem1.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level1_sem2.xml" value="0.16" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level2_sem1.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level2_sem2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level3_sem1.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level3_sem2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level4_sem1.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level4_sem2.xml" value="0.16" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_level_courses.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_view_note.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_view_one.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/activity_visiting_site.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/app_bar_home.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/content_home.xml" value="0.4" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/nav_header_home.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/layout/single_note_row.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/menu/activity_main_drawer.xml" value="0.6" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/CSEHSTUNotebook/app/src/main/res/menu/menu.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
